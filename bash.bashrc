@@ -34,7 +34,7 @@ $R@i.~~ !     :   ~$$$$$B$$en:``
 ?MXT@Wx.~    :     ~"##*$$$$M'
 
 echo -e $blue'╔════════════════════════════════════════════╗'
-echo -e $blue'║* Author    : King Mr_Z17                   ║'
+echo -e $blue'║* Author    : Develop-Roy                   ║'
 echo -e $blue'╚════════════════════════════════════════════╝'
 
 echo -e $green""
